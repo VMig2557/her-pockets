@@ -13,6 +13,10 @@ h2 {
   color: #00ceff;
 }
 
+p {
+  text-align: justify;
+}
+
 table {
   margin: auto;
 }

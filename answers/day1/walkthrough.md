@@ -92,6 +92,11 @@ Now let's add some styling to make this site really pop, **_Her_ Pockets!** styl
    1. Set the text alignment to `center`
    1. Set the foreground color to `#00CEFF`
 
+1. Set the alignment of text paragraphs
+
+   1. Add a ruleset for the `p` selector
+   1. Set the text alignment to `justify`
+
 1. Center the table on the page
    1. Add a ruleset for the `table` selector
    1. Set the margin (`margin` property) to `auto`
