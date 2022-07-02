@@ -36,7 +36,7 @@ The "**_Her_ Difference!**" page needs to have a main heading, a paragraph promo
 
 Just as you're sitting down at your desk to begin working, the company's lead designer drops by your desk and hands you a note with a simple style guide written in mint-green crayon. She explains that these requirements are _essential_ to the **_Her_ Pockets!** Brand identity, so you'd better not mess them up.
 
-### Style Guide 1
+### Style Guide
 
 - Each page title must be centered
 - Paragraphs must be justified
