@@ -16,7 +16,7 @@ Start by editing [/src/day1/difference.html](../../src/day1/difference.html) to 
 1. Following the second heading, add a table element (`<table>`)
 1. Add a table header to the table
 
-   1. Inside the table, add a table head element (`<thead>`) followed by a table body element (`<tbody>`)
+   1. Inside the table, add a table head element (`<thead>`)
    1. Inside the table head, add a table row element (`<tr>`)
    1. Inside the table row, add four table header elements (`<th>`)
    1. Enter the following text in the table headers (in order from left to right)
