@@ -1,0 +1,30 @@
+body {
+  background-color: #050505;
+  color: #fff0f0;
+}
+
+h1 {
+  text-align: center;
+  color: #ff6a83;
+}
+
+h2 {
+  text-align: center;
+  color: #00ceff;
+}
+
+table {
+  margin: auto;
+}
+
+.her-red {
+  color: #ff6a83;
+}
+
+.her-green {
+  color: #98ff98;
+}
+
+.her-blue {
+  color: #00ceff;
+}
