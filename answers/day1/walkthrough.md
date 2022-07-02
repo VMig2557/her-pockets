@@ -135,3 +135,7 @@ Now let's add some styling to make this site really pop, **_Her_ Pockets!** styl
    1. Add a `her-blue` class attribute to each table header element in the table body (`<tbody>`)
 
 Well, that's a pretty good start. Not bad for your first day! See you tomorrow, kid.
+
+# Completed Page
+
+![Day 1 Completed!](answer.png)
