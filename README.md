@@ -14,7 +14,7 @@ Fork this repository and clone it to your local development environment. Then fo
 
 - Web browser
 - Code editor (**_Her_ Pockets!** recommends [VSCode](code.visualstudio.com) or its open-source counterpart, [VSCodium](https://github.com/VSCodium/vscodium))
-- Git & a Github account
+- [Git](https://git-scm.com/downloads) & a [Github](http://github.com) account
 - Basic familiarity with HTML and CSS
 
 ## Optional, but highly preferred
